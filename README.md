@@ -5,6 +5,11 @@
 A full-stack task management app built for the Thiranex Full Stack Development Internship. Users register, log in, and manage their own tasks (create, edit, complete, delete, filter, search) on a clean, responsive dashboard. Every task is scoped to its owner, so one user can never see or modify another user's tasks.
 
 > Internal project folder name is `TaskBuddy` for historical reasons; the product itself is branded **Taskora**. This is a standalone project — separate from any other portfolio project you may have.
+## 🚀 Live Demo
+
+**Frontend:** https://taskora-bice.vercel.app/
+
+**Backend API:** https://taskora-backend-pkzl.onrender.com/
 
 ## Features
 
